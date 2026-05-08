@@ -10,43 +10,33 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "daftar-isi.html",
+    "href": "daftar-isi.html",
+    "title": "Daftar Isi",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "KATA PENGANTAR 2\nDAFTAR PUSTAKA 4\nBAB 1. Pergeseran Paradigma Pengelolaan Sampah 8 1.1. Pendahuluan 8 1.2. Karakteristik dan Suplai Sampah 13 1.3. Potensi Emisi dan Polutan 16 1.4. Produk Samping (Residual Waste) 18 1.5. Analisis Risiko Operasional dan Sosial 20 1.6. Pertimbangan Ekonomi dan Model Pembiayaan 22 1.7. Dimensi Kebijakan dan Tata Kelola Sistem Persampahan 23 1.8. Kesimpulan 24 BAB II. Sejarah WtE di Negara Lain 26 2.1. Sejarah WtE di Denmark 27 2.2. Sejarah WtE di Jepang 29 2.3. Sejarah WtE di Singapura 34 2.4. Sejarah Insinerator di Jerman 40 2.5. Pelajaran Strategis bagi Indonesia 48 2.5. Kesimpulan 52 Bab 3. Transformasi Sisi Hulu 53 3.1. Pemilahan sebagai Fondasi Insinerator 55 3.2. Sistem Pengumpulan dan Pengangkutan 63 3.3. Standar Pemilahan dan Reformasi Sistem Pengangkutan 67 3.4. Kesimpulan 68 BAB 4. Transformasi Sisi Tengah 69 4.1. Konsep Integrasi 74 4.2. Contoh konkrit konsep transformasi sisi hulu dan tengah 76 BAB 5. Sisi Hilir dalam Sistem PSEL 84 5.1. Transformasi Peran Pekerja Informal Persampahan 84 5.2. Mitigasi Dampak Lingkungan PSEL 90 BAB 6. Harmonisasi Kelembagaan dan Kebijakan 99 6.1. Dukungan Kebijakan Persampahan Nasional 99 6.2. Kebutuhan Perubahan Peraturan Daerah 108 6.3. Relevansi Kelembagaan Daerah 111 BAB 7. Opsi Teknologi WtE Non-insinerator 115 7.1. Anaerobic Digestion (AD) 116 7.2. Gasifikasi Berbasis RDF atau sampah fraksi kering 119 7.3. Pirolisis untuk Limbah Plastik Campuran 120 7.4. Mechanical Biological Treatment (MBT) 122 7.5. Kesimpulan 124 BAB 8. Peran Sektor Industri 126 8.1. Peran Industri dalam Pengurangan Sampah 127 8.2. Extended Producer Responsibility (EPR) 130 8.3. Substitusi bahan bakar 131 8.4. Substitusi bahan baku 133 8.5. Sistem pendukung 134 DAFTAR PUSTAKA 137",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Daftar Isi"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "daftar-gambar.html",
+    "href": "daftar-gambar.html",
+    "title": "Daftar Gambar",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "Gambar 1.0.1 Peta negara – negara dengan jumlah insinerator terbanyak dan total kapasitas pengolahannya 4 12 Gambar 1.0.2 Kompleksitas unit APC pada incinerator di Jerman 10 18 Gambar 3.0.1 Kompleksitas sistem persampahan saat ini 54 Gambar 3.0.2 Segitiga Tanner untuk Penakaran Kelayakan Sampah sebagai Bahan Bakar WtE 4 59 Gambar 4.0.1 Sunkey diagram system persampahan di kota Balikpapan dengan dalam satuan ton pada tahun 2023 (data pribadi). 70 Gambar 4.0.2 Pola Transformasi Pengelolaan Sampah Kota 77 Gambar 4.0.3 Contoh Penerapan Halte Sampah (Collection point): a. Gunung Bahagia, Balikpapan; b. Jepang 18 80 Gambar 4.0.4 Alur Informasi Siresik 83 Gambar 5.0.1 Neraca Persampahan Kota Yogyakarta tahun 2021 dalam ton per hari (Lampiran Perwal Yogyakarta No 32/2022) 88 Gambar 5.0.2 Estimasi kuantitas inputan (bahan bakar dan bahan kimia) dan keluaran (produk dan limbah) insinerator (data34 ; sumber gambar:35) 91 Gambar 7.0.1 Skema AD dengan aspek sirkularitasnya 5 118 Gambar 8.1 Contoh potensi integrasi pengelolaan sampah dan industri di Balikpapan 130",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "Daftar Gambar"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "daftar-tabel.html",
+    "href": "daftar-tabel.html",
+    "title": "Daftar Tabel",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Tabel 2.0-1 Penyebab Penutupan Fasilitas WtE di India 1 45 Tabel 2.0-2 Rangkuman peran dan posisi WtE di beberapa negara 49 Tabel 2.0-3 Perbandingan Sistem Pengangkutan Sampah di beberapa Negara 51 Tabel 3-1 Komposisi sampah domestik Jakarta 27 60 Tabel 4.0-1 Penjadwalan pengumpulan dan pengangkutan di Halte Sampah 78 Tabel 5.0-1 Daftar Peralatan dan Teknologi Pembersihan Emisi Insinerator 91 Tabel 6.0-1 Perubahan yang Diperlukan dari Peraturan Persampahan 105 Tabel 6.0-2 Kebutuhan Peraturan Daerah untuk mendukung PSEL 110",
     "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "kata-pengantar.html",
-    "href": "kata-pengantar.html",
-    "title": "Kata Pengantar",
-    "section": "",
-    "text": "Puji syukur kami panjatkan ke hadirat Allah SWT atas limpahan rahmat-Nya sehingga buku ini dapat disusun dengan baik. Buku ini ditulis untuk menyongsong era baru pengelolaan sampah di Indonesia dengan diterbitkannya Perpres 109/2025 yang mengedepankan pengolahan sampah menjadi energi dengan teknologi yang ramah lingkungan. Pengolahan Sampah menjadi Energi Listrik (PSEL) menjadi harapan baru khususnya bagi beberapa kota besar di Indonesia yang mengalami krisis persampahan.\nKesempatan emas ini seharusnya bisa kita manfaatkan bukan hanya mengatasi krisis sampah yang sudah kian parah namun sebaiknya sekaligus membenahi tata kelola persampahan dari hulu sampai ke hilir. Sehebat apapun teknologi Waste to Energy (WtE) yang akan dibangun tidak akan berkelanjutan jika tanpa didukung oleh pengelolaan yang memadai sejak dari sumber sampah.\nDalam proses penyusunan naskah ini kami sangat berterima kasih kepada teman-teman diskusi yang tergabung dalam ISWF (Indonesian Solid Waste Forum) khususnya kepada bapak Agunan P. Samosir, yang sangat membantu dalam mendalami mengenai kebijakan fiskal dan pembiayaan bidang persampahan, serta Dr. Hijrah Purnama Putra, Dr. Fajri Mulya Iresha dan Dr.(cand.) Yebi Yuriandala yang memberikan insight dalam pengelolaan sampah berbasis masyarakat. Ucapan terimakasih kepada teman kami, Dr. Bayu Indrawan, atas saran-saran perbaikan dan tambahan materi khususnya mengenai WtE yang sangat berharga dalam peningkatan kualitas isi buku ini dan juga kepada Prof. Prabang Setyono yang memberikan saran mengenai pengukuran keberlanjutan. Kami juga banyak mengucapkan terimakasih kepada teman-teman kami dalam penelitian dan publikasi bidang persampahan Prof. Zahrul Mufrodi, Dr. Syamsiro, Dr. Agus Prasetya, Dr. Pandji Prawisudha dan Dr. Kun Sri Budiasih, Dr. R.B. Seno Wulung, dan Dr.(cand.) M. Noviansyah Aridito serta semua pihak yang berkontribusi dalam penyusunan buku ini yang tidak dapat kami sebutkan satu per satu.\nSemoga buku ini dapat dipakai sebagai rujukan oleh berbagai kalangan mulai dari akademisi, para penggiat persampahan, sampai dengan para pimpinan daerah khususnya yang akan menangani persampahan dengan teknologi WtE. Terkhusus untuk memberikan arahan bagi pemangku kebijakan di daerah, pada akhir tiap bab diberikan poin-poin rekomendasi dalam boks khusus yang perlu diambil guna bertransformasi menuju pengelolaan sampah berbasis teknologi. Tentunya saran dan kritik terus diharapkan untuk perbaikan isi buku ke depan sehingga edisi berikutnya akan lebih sempurna.\nHormat kami,\nChandra W. Purnomo\nSri Wahyono",
-    "crumbs": [
-      "Kata Pengantar"
+      "Daftar Tabel"
     ]
   },
   {
@@ -97,36 +87,6 @@
     "text": "UNEP. Beyond an Age of Waste Turning Rubbish into a Resource. https://wedocs.unep.org/20.500.11822/44939 (2024).\nUNEP. Beyond an Age of Waste Turning Rubbish into a Resource. (2024).\nKaza, S. & Bhada-Tata, P. Decision Maker’s Guides for Solid Waste Management Technologies. (2018).\nUNEP. WASTE TO ENERGY CONSIDERATIONS FOR INFORMED DECISION-MAKING. (2019).\nMoE. History and Current State of Waste Management in Japan. (2014).\nLMOP. LFG Energy Project Development Handbook. (US EPA, 2024).\nFischer, C. Municipal Waste Management in Germany. http://www.cri.dk/ (2013).\nNeuwahl, F., Cusano, G., Benavides, J. G., Holbrook, S. & Roudier, S. Best Available Techniques (BAT) Reference Document for Waste Incineration. (2019).\nIttershagen, M. THE ROLE OF WASTE INCINERATION IN GERMANY. www.umweltbundesamt.de (2008).\nKoelsch, F. Stability Problems of Landfills-The Payatas Landslide.\nKamuk, B. ISWA Guidelines: Waste to Energy in Low and Middle Income Countries. (2013).\nLahl, U. & Zeschmar-Lahl, B. Prerequisites for Public Acceptance of Waste-to-Energy Plants: Evidence from Germany and Indonesia. Makara Journal of Technology 22, 17 (2018).\nUNEP. WASTE TO ENERGY CONSIDERATIONS FOR INFORMED DECISION-MAKING. (2019).\nLevaggi, L., Levaggi, R., Marchiori, C. & Trecroci, C. Waste-to-energy in the EU: The effects of plant ownership, waste mobility, and decentralization on environmental outcomes and welfare. Sustainability (Switzerland) 12, 1–12 (2020).\nKalogirou, E. N. Waste-to-Energy Technologies and Global Applications. (CRC Press, Florida, 2018).\nKleis, H. & Dalager, S. 100 YEARS OF WASTE INCINERATION IN DENMARK From Refuse Destruction Plants to High-Technology Energy Works. (2007).\nJofra Sora, M. Incineration Overcapacity and Waste Shipping in Europe: The End of the Proximity Principle? (2013).\nJICA. Japan’s Experiences on Waste Management: Overview. (2024).\nDolgen, D., Sarptas, H., Alpaslan, N. & Kucukgul, O. Energy potential of municipal solid wastes. Energy Sources 27, 1483–1492 (2005).\nWahyono, S. Mengelola Sampah Ala Singapura: Model Pengelolaan Sampah Kota Metropolitan. (BPPT Press, Jakarta, 2003).\nFischer, C. Municipal Waste Management in Germany. http://www.cri.dk/ (2013).\nSyifaa, N., Shakil, M., Zahida, A., Azhar, M. & Othman, N. Solid Waste Management in Malaysia: An Overview. Information Management and Business Review vol. 15 (2023).\nManaf, L. A., Samah, M. A. A. & Zukki, N. I. M. Municipal solid waste management in Malaysia: Practices and challenges. Waste Management 29, 2902–2906 (2009).\nJade, C. Batu Arang residents rally against proposed WTE plant, citing health, environmental concerns . https://www.thestar.com.my/metro/metro-news/2025/11/17/batu-arang-residents-rally-against-proposed-wte-plant-citing-health-environmental-concerns#goog_rewarded (2025).\nChand Malav, L. et al. A review on municipal solid waste as a renewable source for waste-to-energy project in India: Current practices, challenges, and future opportunities. J Clean Prod 277, (2020).\nKaza, S., Yao, L., Bhada-Tata, P. & Van Woerden, F. What a Waste 2.0. (2018).\nWahyono, S., Sahwan, F. L. & Suryanto, F. Characterization of municipal solid waste for waste to energy feedstock in Jakarta. in IOP Conference Series: Earth and Environmental Science vol. 1034 (Institute of Physics, 2022).\nWahyono, S. et al. Identification and analysis of municipal solid waste pre-treatment to improve waste quality for waste-to-energy facility. in IOP Conference Series: Earth and Environmental Science vol. 1201 (Institute of Physics, 2023).\nUNEP. General Technical Guidelines on the Environmentally Sound of Wastes Consisting of, Containing or contaminated with Persistent Organic Pollutants. (2024).\nSyahputra, R., Kristanto, G. A. & Dahlan, A. V. The Potential Integration of Informal to Formal Workers in Muara Fajar Landfill (TPA) Pekanbaru with the Circular Economy Concept. Indonesian Journal of Social Technology 6, 872 (2025).\nGIZ. INCLUSION OF INFORMAL COLLECTORS INTO THE EVOLVING WASTE MANAGEMENT SYSTEM IN SERBIA : A Roadmap for Integration. www.giz.de (2018).\nDamanhuri, E. Informal Collectors of Recyclable Waste and Used Goods in Indonesia. (2010).\nPemkot Yogyakarta. Peraturan Walikota Yogyakarta No 32 Tahun 2022 Tentang Masterplan Pengelolaan Persampahan Kota Yogyakarta 2022 - 2031. (2022).\nQuina, M. J., Bordado, J. C. M. & Quinta-Ferreira, R. M. Air Pollution Control in Municipal Solid Waste Incinerators. in The Impact of Air Pollution on Health, Economy, Environment and Agricultural Sources (ed. Khallaf, M. K.) (InTech, 2011).\nDeltaway. Waste-to-Energy: How It Works. https://deltawayenergy.com/2018/08/waste-to-energy-how-it-works/.\nWood, S., Fanning, M., Venn, M. & Whiting, K. REVIEW OF STATE-OF-THE-ART WASTE-TO-ENERGY TECHNOLOGIES. www.wspgroup.co.uk (2013).\nMoshkal, M., Akhapov, Y. & Ogihara, A. Sustainable Waste Management in Japan: Challenges, Achievements, and Future Prospects: A Review. Sustainability (Switzerland) vol. 16 Preprint at https://doi.org/10.3390/su16177347 (2024).\nAlbizzati, P. Federica. et al. Development of an EU Harmonised Model for Separate Municipal Waste Collection and Related Policy Support. (2023).\nEuropean Commission. Being Wise with Waste : The EU’s Approach to Waste Management. (2010).\nYumitro, G., Oktaviani, S. & Deniar, S. M. How South Korea’s waste management system becomes a model for the world: What Indonesia can learn from South Korea’s experience. Communications in Humanities and Social Sciences 4, 22–28 (2024).\nGIZ. INCLUSION OF INFORMAL COLLECTORS INTO THE EVOLVING WASTE MANAGEMENT SYSTEM IN SERBIA A Roadmap for Integration. www.giz.de (2018).\nISWA. Waste-to-Energy State-of-the-Art-Report. www.ramboll.com (2012).",
     "crumbs": [
       "Daftar Pustaka"
-    ]
-  },
-  {
-    "objectID": "daftar-gambar.html",
-    "href": "daftar-gambar.html",
-    "title": "Daftar Gambar",
-    "section": "",
-    "text": "Gambar 1.0.1 Peta negara – negara dengan jumlah insinerator terbanyak dan total kapasitas pengolahannya 4 12 Gambar 1.0.2 Kompleksitas unit APC pada incinerator di Jerman 10 18 Gambar 3.0.1 Kompleksitas sistem persampahan saat ini 54 Gambar 3.0.2 Segitiga Tanner untuk Penakaran Kelayakan Sampah sebagai Bahan Bakar WtE 4 59 Gambar 4.0.1 Sunkey diagram system persampahan di kota Balikpapan dengan dalam satuan ton pada tahun 2023 (data pribadi). 70 Gambar 4.0.2 Pola Transformasi Pengelolaan Sampah Kota 77 Gambar 4.0.3 Contoh Penerapan Halte Sampah (Collection point): a. Gunung Bahagia, Balikpapan; b. Jepang 18 80 Gambar 4.0.4 Alur Informasi Siresik 83 Gambar 5.0.1 Neraca Persampahan Kota Yogyakarta tahun 2021 dalam ton per hari (Lampiran Perwal Yogyakarta No 32/2022) 88 Gambar 5.0.2 Estimasi kuantitas inputan (bahan bakar dan bahan kimia) dan keluaran (produk dan limbah) insinerator (data34 ; sumber gambar:35) 91 Gambar 7.0.1 Skema AD dengan aspek sirkularitasnya 5 118 Gambar 8.1 Contoh potensi integrasi pengelolaan sampah dan industri di Balikpapan 130",
-    "crumbs": [
-      "Daftar Gambar"
-    ]
-  },
-  {
-    "objectID": "daftar-tabel.html",
-    "href": "daftar-tabel.html",
-    "title": "Daftar Tabel",
-    "section": "",
-    "text": "Tabel 2.0-1 Penyebab Penutupan Fasilitas WtE di India 1 45 Tabel 2.0-2 Rangkuman peran dan posisi WtE di beberapa negara 49 Tabel 2.0-3 Perbandingan Sistem Pengangkutan Sampah di beberapa Negara 51 Tabel 3-1 Komposisi sampah domestik Jakarta 27 60 Tabel 4.0-1 Penjadwalan pengumpulan dan pengangkutan di Halte Sampah 78 Tabel 5.0-1 Daftar Peralatan dan Teknologi Pembersihan Emisi Insinerator 91 Tabel 6.0-1 Perubahan yang Diperlukan dari Peraturan Persampahan 105 Tabel 6.0-2 Kebutuhan Peraturan Daerah untuk mendukung PSEL 110",
-    "crumbs": [
-      "Daftar Tabel"
-    ]
-  },
-  {
-    "objectID": "daftar-isi.html",
-    "href": "daftar-isi.html",
-    "title": "Daftar Isi",
-    "section": "",
-    "text": "KATA PENGANTAR 2\nDAFTAR PUSTAKA 4\nBAB 1. Pergeseran Paradigma Pengelolaan Sampah 8 1.1. Pendahuluan 8 1.2. Karakteristik dan Suplai Sampah 13 1.3. Potensi Emisi dan Polutan 16 1.4. Produk Samping (Residual Waste) 18 1.5. Analisis Risiko Operasional dan Sosial 20 1.6. Pertimbangan Ekonomi dan Model Pembiayaan 22 1.7. Dimensi Kebijakan dan Tata Kelola Sistem Persampahan 23 1.8. Kesimpulan 24 BAB II. Sejarah WtE di Negara Lain 26 2.1. Sejarah WtE di Denmark 27 2.2. Sejarah WtE di Jepang 29 2.3. Sejarah WtE di Singapura 34 2.4. Sejarah Insinerator di Jerman 40 2.5. Pelajaran Strategis bagi Indonesia 48 2.5. Kesimpulan 52 Bab 3. Transformasi Sisi Hulu 53 3.1. Pemilahan sebagai Fondasi Insinerator 55 3.2. Sistem Pengumpulan dan Pengangkutan 63 3.3. Standar Pemilahan dan Reformasi Sistem Pengangkutan 67 3.4. Kesimpulan 68 BAB 4. Transformasi Sisi Tengah 69 4.1. Konsep Integrasi 74 4.2. Contoh konkrit konsep transformasi sisi hulu dan tengah 76 BAB 5. Sisi Hilir dalam Sistem PSEL 84 5.1. Transformasi Peran Pekerja Informal Persampahan 84 5.2. Mitigasi Dampak Lingkungan PSEL 90 BAB 6. Harmonisasi Kelembagaan dan Kebijakan 99 6.1. Dukungan Kebijakan Persampahan Nasional 99 6.2. Kebutuhan Perubahan Peraturan Daerah 108 6.3. Relevansi Kelembagaan Daerah 111 BAB 7. Opsi Teknologi WtE Non-insinerator 115 7.1. Anaerobic Digestion (AD) 116 7.2. Gasifikasi Berbasis RDF atau sampah fraksi kering 119 7.3. Pirolisis untuk Limbah Plastik Campuran 120 7.4. Mechanical Biological Treatment (MBT) 122 7.5. Kesimpulan 124 BAB 8. Peran Sektor Industri 126 8.1. Peran Industri dalam Pengurangan Sampah 127 8.2. Extended Producer Responsibility (EPR) 130 8.3. Substitusi bahan bakar 131 8.4. Substitusi bahan baku 133 8.5. Sistem pendukung 134 DAFTAR PUSTAKA 137",
-    "crumbs": [
-      "Daftar Isi"
     ]
   }
 ]
