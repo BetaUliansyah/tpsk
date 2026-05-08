@@ -1,0 +1,56 @@
+{
+  "index.qmd": {
+    "index.html": "cd6f9a09"
+  },
+  "intro.qmd": {
+    "intro.html": "faa3bc2c"
+  },
+  "summary.qmd": {
+    "summary.html": "ec749626"
+  },
+  "references.qmd": {
+    "references.html": "91c09fc4"
+  },
+  "kata-pengantar.qmd": {
+    "kata-pengantar.html": "13592d3b"
+  },
+  "daftar-isi.qmd": {
+    "daftar-isi.html": "e52e242d"
+  },
+  "daftar-gambar.qmd": {
+    "daftar-gambar.html": "ff1a2125"
+  },
+  "daftar-tabel.qmd": {
+    "daftar-tabel.html": "723553d3"
+  },
+  "bab-1.qmd": {
+    "bab-1.html": "34508430"
+  },
+  "bab-2.qmd": {
+    "bab-2.html": "9d5d574b"
+  },
+  "bab-3.qmd": {
+    "bab-3.html": "a9bc3a75"
+  },
+  "bab-4.qmd": {
+    "bab-4.html": "05dcb916"
+  },
+  "bab-5.qmd": {
+    "bab-5.html": "f05d2d10"
+  },
+  "bab-6.qmd": {
+    "bab-6.html": "f51491d6"
+  },
+  "bab-7.qmd": {
+    "bab-7.html": "cad49efd"
+  },
+  "bab-8.qmd": {
+    "bab-8.html": "92214cfd"
+  },
+  "daftar-pustaka.qmd": {
+    "daftar-pustaka.html": "92149f2f"
+  },
+  "tentang-penulis.qmd": {
+    "tentang-penulis.html": "200b3436"
+  }
+}

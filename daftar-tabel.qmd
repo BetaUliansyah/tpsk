@@ -1,0 +1,10 @@
+# Daftar Tabel {.unnumbered}
+
+Tabel 2.0-1 Penyebab Penutupan Fasilitas WtE di India 1	45
+Tabel 2.0-2 Rangkuman peran dan posisi WtE di beberapa negara	49
+Tabel 2.0-3 Perbandingan Sistem Pengangkutan Sampah di beberapa Negara	51
+Tabel 3-1 Komposisi sampah domestik Jakarta 27	60
+Tabel 4.0-1 Penjadwalan pengumpulan dan pengangkutan di Halte Sampah	78
+Tabel 5.0-1 Daftar Peralatan dan Teknologi Pembersihan Emisi Insinerator	91
+Tabel 6.0-1 Perubahan yang Diperlukan dari Peraturan Persampahan	105
+Tabel 6.0-2 Kebutuhan Peraturan Daerah untuk mendukung PSEL	110

@@ -1,0 +1,14 @@
+# Daftar Gambar {.unnumbered}
+
+Gambar 1.0.1 Peta negara – negara dengan jumlah insinerator terbanyak dan total kapasitas pengolahannya 4	12
+Gambar 1.0.2 Kompleksitas unit APC pada incinerator di Jerman 10	18
+Gambar 3.0.1 Kompleksitas sistem persampahan saat ini	54
+Gambar 3.0.2 Segitiga Tanner untuk Penakaran Kelayakan Sampah sebagai Bahan Bakar WtE 4	59
+Gambar 4.0.1 Sunkey diagram system persampahan di kota Balikpapan dengan dalam satuan ton pada tahun 2023 (data pribadi).	70
+Gambar 4.0.2 Pola Transformasi Pengelolaan Sampah Kota	77
+Gambar 4.0.3 Contoh Penerapan Halte Sampah (Collection point): a. Gunung Bahagia, Balikpapan; b. Jepang 18	80
+Gambar 4.0.4 Alur Informasi Siresik	83
+Gambar 5.0.1 Neraca Persampahan Kota Yogyakarta tahun 2021 dalam ton per hari (Lampiran Perwal Yogyakarta No 32/2022)	88
+Gambar 5.0.2 Estimasi kuantitas inputan (bahan bakar dan bahan kimia) dan keluaran (produk dan limbah) insinerator (data34 ; sumber gambar:35)	91
+Gambar 7.0.1 Skema AD dengan aspek sirkularitasnya 5	118
+Gambar 8.1 Contoh potensi integrasi pengelolaan sampah dan industri di Balikpapan	130

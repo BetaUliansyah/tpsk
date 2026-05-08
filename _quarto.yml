@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Transformasi Pengelolaan Sampah Kota"
+  author: 
+  - "Prof. Chandra W. Purnomo"
+  - "Sri Wahyono"
+  date: "5/6/2026"
+  chapters:
+    - index.qmd
+    - daftar-isi.qmd
+    - daftar-gambar.qmd
+    - daftar-tabel.qmd
+    - bab-1.qmd
+    - bab-2.qmd
+    - bab-3.qmd
+    - bab-4.qmd
+    - bab-5.qmd
+    - bab-6.qmd
+    - bab-7.qmd
+    - bab-8.qmd
+    - daftar-pustaka.qmd
+    - tentang-penulis.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+cover-image: cover.png
+
+
+

@@ -1,0 +1,50 @@
+# Daftar Isi {.unnumbered}
+
+KATA PENGANTAR	2
+
+DAFTAR PUSTAKA	4
+
+BAB 1. Pergeseran Paradigma Pengelolaan Sampah	8
+1.1.	Pendahuluan	8
+1.2.	Karakteristik dan Suplai Sampah	13
+1.3. Potensi Emisi dan Polutan	16
+1.4. Produk Samping (Residual Waste)	18
+1.5. Analisis Risiko Operasional dan Sosial	20
+1.6. Pertimbangan Ekonomi dan Model Pembiayaan	22
+1.7. Dimensi Kebijakan dan Tata Kelola Sistem Persampahan	23
+1.8. Kesimpulan	24
+BAB II. Sejarah WtE di Negara Lain	26
+2.1. Sejarah WtE di Denmark	27
+2.2. Sejarah WtE di Jepang	29
+2.3.	Sejarah WtE di Singapura	34
+2.4.	Sejarah Insinerator di Jerman	40
+2.5. Pelajaran Strategis bagi Indonesia	48
+2.5. Kesimpulan	52
+Bab 3. Transformasi Sisi Hulu	53
+3.1. Pemilahan sebagai Fondasi Insinerator	55
+3.2. Sistem Pengumpulan dan Pengangkutan	63
+3.3. Standar Pemilahan dan Reformasi Sistem Pengangkutan	67
+3.4. Kesimpulan	68
+BAB 4. Transformasi Sisi Tengah	69
+4.1. Konsep Integrasi	74
+4.2. Contoh konkrit konsep transformasi sisi hulu dan tengah	76
+BAB 5. Sisi Hilir dalam Sistem PSEL	84
+5.1. Transformasi Peran Pekerja Informal Persampahan	84
+5.2. Mitigasi Dampak Lingkungan PSEL	90
+BAB 6. Harmonisasi Kelembagaan dan Kebijakan	99
+6.1. Dukungan Kebijakan Persampahan Nasional	99
+6.2. Kebutuhan Perubahan Peraturan Daerah	108
+6.3. Relevansi Kelembagaan Daerah	111
+BAB 7. Opsi Teknologi WtE Non-insinerator	115
+7.1. Anaerobic Digestion (AD)	116
+7.2. Gasifikasi Berbasis RDF atau sampah fraksi kering	119
+7.3. Pirolisis untuk Limbah Plastik Campuran	120
+7.4. Mechanical Biological Treatment (MBT)	122
+7.5. Kesimpulan	124
+BAB 8. Peran Sektor Industri	126
+8.1.  Peran Industri dalam Pengurangan Sampah	127
+8.2. Extended Producer Responsibility (EPR)	130
+8.3. Substitusi bahan bakar	131
+8.4. Substitusi bahan baku	133
+8.5. Sistem pendukung	134
+DAFTAR PUSTAKA	137
