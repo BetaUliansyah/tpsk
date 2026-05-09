@@ -1,1 +1,100 @@
-# BAB 4. Transformasi Sisi Tengah
+# Transformasi Sisi Tengah
+
+“Midstream excellence enables long-term WtE sustainability”
+
+Indonesia memiliki struktur pengelolaan sampah yang berbeda secara fundamental dari negara-negara yang lebih dahulu membangun sistem insinerator (WtE). Indonesia membangun “sisi tengah” yang berada antara rumah tangga dan TPA selama dua dekade terakhir melalui Bank Sampah, TPS3R, kelompok Pengelola Sampah Mandiri (PSM), serta jejaring informal yang terhubung ke industri daur ulang. Lapisan ini muncul karena kebutuhan nyata yaitu keterbatasan layanan pemerintah, kondisi geografis permukiman yang padat, serta dorongan kebijakan nasional untuk memperluas partisipasi masyarakat dalam upaya pengurangan sampah. Struktur ini berkembang kuat secara sosial maupun kelembagaan, dan kini menjadi bagian integral dari sistem persampahan nasional.
+
+Gambar 4.0.1 Sunkey diagram system persampahan di kota Balikpapan dengan dalam satuan ton pada tahun 2023 (data pribadi).
+Contoh gambaran kompleksitas interkoneksi aliran sampah dari hulu ke hilir disajikan pada Gambar 4.1 dengan metode Material Flow Analysis (MFA) berdasar data kota Balikpapan. Terdapat sarana dan prasarana formal di tengah yaitu TPS, TPS3R, MRF, TPST, ITF, bank sampah induk. Kemudian ada aktor informal perseorangan dan swasta yaitu bank sampah, pelapak dan pengepul sampah. Jika nanti di TPA dibangun PSEL dengan kapasitas besar, maka semua sampah sebanyak – banyaknya perlu segera dikirim ke PSEL. Sehingga fasilitas antara persampahan tersebut perlu dipikirkan perannya pada era insinerator mendatang yang kemungkinan akan banyak terdampak. 
+Dari Gambar 4.1, juga terlihat bahwa pengangkutan dan pengumpulan sampah dilakukan dengan variasi yang cukup tinggi. Mulai dari sumber sampah dari rumah tangga, dari fasilitas publik dan dari fasilitas swasta memiliki transporter dan pola pengangkutan berbeda – beda. Dari rumah tangga biasanya masuk dulu ke TPS yang dikumpulkan oleh pasukan PSM, namun ada juga yang langsung ke TPST atau unit pengomposan (ITF) yang dimiliki oleh kota Balikpapan. Kemudian peran bank sampah dan aktifitas daur ulang yang terukur dari diagram diatas cukup besar, padahal umumnya yang diambil oleh para pengepul memiliki nilai kalor yang tinggi yang dibutuhkan PSEL.  
+Bank Sampah tumbuh masif sejak terbitnya Permen LH No. 13 Tahun 2012 yang menjadikannya instrumen resmi program 3R nasional. Bank Sampah berfungsi sebagai pusat pengumpulan dan pemilahan sampah bernilai, terutama plastik, kertas, dan logam. Ia tidak hanya fasilitas teknis, tetapi juga instrumen pemberdayaan masyarakat, penguatan literasi lingkungan, serta penghubung antara rumah tangga dan industri daur ulang. Banyak pemerintah daerah memberikan dukungan administratif dan menetapkan Bank Sampah dalam dokumen pengelolaan sampah daerah, sehingga posisinya kini melekat dalam ekosistem perkotaan.
+Sementara itu, TPS3R (Tempat Pengolahan Sampah Reduce-Reuse-Recycle) hadir berdasarkan pedoman teknis Kementerian PUPR dan SNI 3242:2008. TPS3R dirancang untuk mengolah sampah skala kawasan 10–20 ton per hari, melakukan pemilahan, memproduksi kompos, dan memulihkan material daur ulang. Ribuan TPS3R dibangun menggunakan APBN, DAK, dan program KOTAKU. Ia dirancang untuk mengurangi ketergantungan ke TPA dan memperkuat 3R dalam konteks kawasan. Hanya saja kondisi saat ini banyak TPS3R yang tidak beroperasi karena ketidakjelasan kelembagaan yang menjalankannya.
+Pada tingkat paling dasar, PSM (Pengelola Sampah Mandiri) muncul sebagai respons masyarakat terhadap keterbatasan layanan pemerintah. PSM, pemulung, dan operator angkut informal membentuk jaringan pengumpulan primer yang sangat signifikan dalam sistem persampahan Indonesia. Mereka mengambil fraksi bernilai tinggi dan memberikan layanan pengangkutan rutin melalui iuran warga. Walaupun tidak tercantum secara rinci dalam undang-undang, keberadaan mereka diterima secara sosial dan sering kali dilegitimasi melalui kelurahan, RW, atau kelompok masyarakat. PSM ini umumnya menjadi ujung tombak pengumpulan sampah dari perumahan dan unit usaha kecil dan menengah seperti warung, penginapan dan restoran.
+Lapisan tengah memainkan tiga peran utama yang krusial. Pertama, fungsi reduksi, karena Bank Sampah dan TPS3R mengurangi volume sampah yang perlu diangkut pemerintah. Kedua, fungsi pemberdayaan masyarakat, karena mereka menjadi pusat edukasi dan partisipasi langsung. Ketiga, fungsi stabilisasi ekosistem daur ulang, karena sektor informal memasok fraksi bernilai tinggi ke industri daur ulang nasional. Pola ini membuat Indonesia berbeda, karena sistemnya tidak sepenuhnya terpusat seperti Jepang atau Denmark, tetapi terfragmentasi namun aktif di tingkat komunitas.
+Namun, masuknya PSEL/insinerator membawa dinamika baru yang signifikan. Fasilitas PSEL membutuhkan suplai sampah harian yang besar, stabil, dan relatif homogen agar dapat beroperasi sesuai standar teknis, terutama untuk mempertahankan temperatur pembakaran 850–1100°C untuk mencegah pembentukan dioksin sebagaimana direkomendasikan oleh pedoman Basel Convention 30. Untuk alasan teknis dan finansial, PSEL biasanya beroperasi dengan perjanjian “minimal tonnage guarantee,” yaitu komitmen volume sampah tertentu yang harus dipenuhi oleh pemerintah kota setiap hari. Kondisi ini membuat lapisan tengah perlu menyesuaikan peran agar tidak terjadi konflik kepentingan antara pengurangan sampah melalui 3R dan kebutuhan suplai PSEL.
+Dalam sistem PSEL, Bank Sampah berpotensi kehilangan sebagian fraksi bernilai seperti kertas dan plastik jika pemerintah mulai memprioritaskan sampah bernilai kalor tinggi untuk suplai insinerator. Hal ini telah terjadi di beberapa negara Eropa ketika kapasitas insinerator melebihi timbulan sampah, sehingga insentif daur ulang menurun. Dengan kata lain, kapasitas insinerasi yang besar dan investasi besar dapat memaksa agar limbah yang seharusnya didaur ulang justru dibakar 18. Jika tidak diatur dengan baik, Bank Sampah dapat terpinggirkan, padahal mereka adalah fondasi ekonomi sirkular Indonesia.
+TPS3R juga menghadapi tantangan besar. Desain TPS3R adalah mengolah sampah organik dan memulihkan material, sehingga residunya kecil. Namun PSEL membutuhkan residu dalam jumlah besar. Jika kebijakan pemerintah daerah berubah untuk mengalirkan residu secara langsung dari TPS ke PSEL, maka fungsi TPS3R dapat berkurang drastis. Banyak negara berkembang dengan skema serupa melaporkan bahwa fasilitas 3R lokal menjadi tidak relevan ketika insinerator mulai beroperasi tanpa integrasi yang jelas. Padahal Indonesia telah menginvestasikan dana besar dalam pembangunan TPS3R, sehingga penurunan peran TPS3R berpotensi menjadi inefisiensi nasional.
+Peran PSM juga akan berubah. PSM saat ini mengontrol fase terpenting dalam kualitas sampah: pengumpulan primer. Mereka mengambil fraksi bernilai dan mengirim residu ke TPS. Namun residu hasil PSM sering kali memiliki kadar air tinggi dan bercampur dengan lumpur atau fraksi inert, sehingga tidak ideal untuk PSEL. Di sisi lain, PSEL membutuhkan fraksi residu yang relatif kering dan konsisten. Keterlibatan PSM dalam sistem formal dapat menyebabkan sampah yang masuk ke PSEL tidak sesuai spesifikasi teknis. Sehingga operator pengangkut informal dan pemulung perlu diintegrasikan ke dalam sistem formal agar terkoordinasi dan tidak kehilangan pekerjaan 31,32.
+4.1. Konsep Integrasi
+Transformasi sisi tengah dalam konteks PSEL bukan sekadar adaptasi teknis, tetapi perubahan paradigma kelembagaan. Indonesia harus memastikan bahwa PSEL tidak menghilangkan prinsip 3R, melainkan menjadi pelengkap yang mengolah residu sejati. Untuk itu, sisi tengah perlu diberi peran baru yang lebih strategis dan terintegrasi dengan kebutuhan teknis PSEL.
+Pertama, Bank Sampah harus bertransformasi menjadi pusat pemilahan primer standar, menghasilkan residu bersih yang dapat langsung dikirim ke insinerator. Bank Sampah tetap mempertahankan perannya dalam ekonomi sirkular dengan menjual fraksi bernilai tinggi, tetapi harus didukung pelatihan khusus dan standar operasional agar residu yang dihasilkan stabil secara kualitas. Jepang menerapkan sistem ini dengan sangat baik: Bank Sampah versi Jepang (community-based sorting stations) menghasilkan residu yang hampir tidak berfluktuasi, sehingga insinerator bekerja optimal 6.
+Kedua, TPS3R harus menjadi hub integrasi logistik dan kualitas residu. TPS3R tidak boleh diposisikan sebagai kompetitor PSEL, tetapi sebagai fasilitas pendukung untuk menghasilkan residu berkualitas tinggi. TPS3R dapat melakukan pre-processing sederhana seperti pemadatan, pengeringan pasif, pengayakan, dan pemisahan fraksi inert. Model ini mirip dengan transfer station Denmark yang menjadi titik verifikasi kualitas sebelum residu masuk ke insinerator 17.
+Ketiga, PSM, penggerobak dan pemulung harus diintegrasikan dalam sistem formal melalui program lisensi, sertifikasi, dan insentif berbasis kinerja. Dengan integrasi ini, PSM tetap dapat memperoleh pendapatan dari pengangkutan dan pemulihan material, tetapi bekerja dalam standar teknis yang mendukung operasi PSEL. Ketika hal ini dilakukan, integrasi sektor informal meningkatkan kualitas feedstock insinerator dan stabilitas suplai tanpa mematikan peran sosial pengumpul mandiri. Peran PSM yang baru sebagai juru angkut sampah terintegrasi akan dijelaskan lebih lanjut di bagian akhir bab ini.
+Digitalisasi juga harus menjadi fondasi transformasi sisi tengah. Bank Sampah, TPS3R, dan PSM dapat berkontribusi pada sistem data terpadu untuk mencatat timbulan, komposisi residu, kadar air, dan volume yang dikirim ke PSEL. Model ini meniru Denmark dan Jepang, yang memastikan kontrol kualitas bukan hanya di hilir, tetapi sepanjang rantai suplai.
+Dengan transformasi dan integrasi yang tepat, sisi tengah tidak hanya bertahan tetapi menjadi pilar utama keberhasilan PSEL nasional. Mereka menjadi penghubung antara masyarakat, pemerintah daerah, dan operator PSEL. Sebaliknya, jika tidak diintegrasikan, kehadiran PSEL berpotensi mengganggu sistem 3R, melemahkan ekonomi sirkular, dan menciptakan konflik kepentingan antara pemulihan material dan pembakaran.
+4.2. Contoh konkrit konsep transformasi sisi hulu dan tengah
+Dibawah ini akan disajikan contoh transformasi sarana dan prasarana sampah di hulu dan sisi Tengah menghadapi perubahan teknologi di hilir. Contoh transformasi ini memakai kapasitas timbulan sampah per hari sebesar 1300 ton dengan pembagian 1000 ton akan masuk ke uni WtE di hilir dan 300 ton dikelola di hulu menjadi kompos dan didaur ulang.  
+Kemudian, pemilahan sederhana menjadi dua jenis dengan asumsi WtE sisi hilir mampu mengolah sampah organik basah sehingga tidak perlu dipisahkan sendiri. Pemilahan ini akan menjadi kunci di hulu sekaligus juga disiapkan sistem pengumpulan dan pengangkutannya. Pada Gambar 4.2. disajikan diagram proses pengelolaan sampah baru yang diusulkan dengan modifikasi sistem pemilahan dan pengumpulan sampah.
+
+Gambar 4.0.2 Pola Transformasi Pengelolaan Sampah Kota
+
+Inti dari kekuatan pengelolaan sampah yang baru adalah keseimbangan antara sistem desentralisasi dan sentralisasi persampahan. Di hulu sumber sampah masyarakat yang harus mampu memilah sampahnya menjadi dua fraksi saja yaitu SALAK (sampah layak bakar) dan SARE (sampah residu), yang akan dijelaskan lebih lanjut dan mentaati penjadwalan pengumpulan. Pengawasan implementasi pemilahan dan penjadwalan ini diperlukan petugas kader persampahan yang disebut JUMILAH. Kemudian Masyarakat tidak perlu membawa sampahnya ke Depo atau TPS yang jauh tapi cukup ke HALTE sampah di RT/RW setempat. Dari halte sampah diangkut oleh JUMANGKUT yaitu transporter sampah formal dibawah koordinasi DLH ke TPS3R atau Transfer station terdekat. Di TPS3R sampah akan diinspeksi lagi dan dipilah lebih lanjut.
+Pada Pola Penguatan hulu, masyarakat kota diharuskan mampu memilah menjadi cukup dua jenis saja yaitu Sampah Layak Bakar (SALAK) dan Sampah Residu (SARE).  Sementara sampah yang laku jual dapat disetor ke Bank Sampah atau dijual ke pemulung. Salak terdiri dari sampah yang dapat dibakar dan aman bagi PSEL. Jenisnya harus disesuaikan dengan kemampuan teknologi dari vendor PSEL. Umumnya fraksi dapat dibakar terdiri dari fraksi organik, plastik dan kertas tidak laku jual. SARE terdiri dari sampah residu seperti sampah spesifik yang akan merusak PSEL jika masuk di pembakarannya misalkan baterai bekas, kaleng aerosol, pipa dan kawat besi dan lainnya sesuai dengan yang ditetapkan kemudian.
+Selain pemilahan akan dilakukan penjadwalan pengumpulan ke Halte sampah terdekat sebagai berikut Salak dapat dikumpulkan 5 kali (hari) dalam seminggu dan Sare karena jumlahnya relatif sedikit bisa dikumpulkan pada 2 kali (hari) dalam seminggu dengan detil penjadwalan akan ditetapkan kemudian. Contoh penjadwalan dapat dilihat pada Tabel 4.1 dibawah ini. Ketika Masyarakat mengumpulkan, juru pemilahan (Jumilah) akan mengawasi ketaatan masyarakat dalam melakukan penilahan dan penjadwalan di lokasi Halte. Jumilah juga akan melakukan sosialisasi ke rumah-rumah penduduk untuk mengedukasi Masyarakat dalam memilah sampah yang benar.
+Tabel 4.0-1 Penjadwalan pengumpulan dan pengangkutan di Halte Sampah
+Jenis Sampah
+Hari
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Minggu
+SALAK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SARE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sedangkan pada Konsep Penguatan Hilir, Masyarakat tidak perlu memilah hanya cukup mengantarkan ke Halte saja nanti yang bertugas memilah sederhana adalah Jumilah di depo masing-masing. 
+Pengumpulan di Depo sampah atau TPS adalah cara kuno dan sudah lama ditinggalkan pada sistem persampahan negara maju. Depo sampah di perkotaan menjadi sumber masalah karena sampah dari penduduk luar masuk ke depo-depo yang ada dan terjadi penumpukan sampah melebihi kapasitasnya. Kemudian juga mengganggu estetika dan kesehatan lingkungan. Depo akan digantikan oleh Halte sampah per-kawasan atau RT yang dikelola dan diawasi oleh masyarakat dan petugas (Jumilah). Halte bukan tempat penyimpanan sampah hanya tempat singgah sampah sementara sesuai jadwal pembuangan, sembari menunggu penjemputan sampah. Halte sampah harus kosong dan bersih setiap saat kecuali pada pagi hari sampah diantarkan warga ke halte dan siangnya akan dijemput oleh armada sampah (Jumangkut). Halte akan diawasi oleh perangkat RT dan RW dan juga petugas khusus (Jumilah) setempat untuk memastikan ketertiban pengumpulan dan pemilahan dari warga.
+
+
+
+a
+b
+
+Gambar 4.0.3 Contoh Penerapan Halte Sampah (Collection point): a. Gunung Bahagia, Balikpapan; b. Jepang 19
+
+Pada Gambar 4.3 adalah contoh Halte atau collection point sampah yang diterapkan di Kelurahan Gunung Bahagia, Balikpapan dan Jepang. Jadi system Halte ini bukan hal baru di Indonesia dan juga tentunya di negara maju seperti di Jepang. Halte tidak memerlukan bangunan yang khusus yang penting adalah papan penanda dengan keterangan penjadwalan dan jam operasional. Halte harus kosong dan bersih tidak ada penumpukan sampah baru setelah semua sampah diambil oleh Jumangkut dan di luar jam operasional.
+Jumilah adalah juru pilah yang ditetapkan resmi oleh pemerintah untuk memastikan pemilahan dari warga berjalan dengan baik. Jumilah akan memastikan sampah yang disetor ke Halte sesuai dengan pemilahan antara Salak dan Sare dan pada jadwal hari yang tepat. Jumilah juga akan memastikan Halte sampah tidak terisi dan bersih sebelum dan sesudah waktu pengumpulan sampah. Jadi idealnya satu Halte satu Jumilah pada awal penerapan program baru ini setelah itu jumlah Jumilah bisa disesuaikan. Sebelum melaksanakan tugas Jumilah harus mengikuti pembekalan (sekolah) terlebih dahulu.
+Selain mengawasi Halte, Jumilah juga akan diberi tugas sosialisasi terus menerus kepada warga untuk memastikan ketaatan pemilahan. Kemudian Jumilah juga diberi tugas untuk memastikan retribusi sampah tiap KK terbayarkan perbulan dengan besaran iuran akan ditetapkan kemudian yang idealnya menyesuaikan dengan daya listrik terpasang di tiap rumah tangga. 
+Penggerobak atau PSM (Pengelola Sampah Mandiri) di Kota Jogja akan dikordinasikan dan diformalkan menjadi juru angkut resmi (Jumanggkut).  Jumangkut ini akan membawa sampah dari Halte-Halte ke TPS3R serta Transfer Station lain yang akan dibangun kemudian. Jumangkut memiliki cakupan Kawasan tertentu atau berdasar jumlah Halte misal satu Jumangkut membawahi 10 Halte. Jumangkut memakai motor tiga roda ataupun mobil pickup milik pribadi yang akan disubsidi BBMnya oleh PEMDA atau memakai sistem sewa ke pihak ketiga. Dalam satu hari akan mengangkut sebanyak 5 rit ke TPS3R terdekat. Jumangkut akan digaji oleh PEMKOT dan tidak boleh menerima langsung iuran dari warga. Rute pengambilan harus didesain seefisien mungkin dan jam pengangkutan harus jelas sehingga sesuai dengan waktu operasi Halte.
+TPS3R akan difungsikan sebagai pemilahan lanjutan, pengolahan dan transfer facility yaitu memindah sampah dari Jumangkut ke truk-truk angkut sampah DLH yang akan diangkut ke PSEL. TPS3R juga dapat dipakai untuk memperbaiki pemilahan jika dari masyarakat Salak dan Sare belum terpilah dengan baik. Jika ada sampah yang laku jual masih terangkut ke TPS3R maka akan dikumpulkan dan dijual ke pelapak/pengepul. 
+Idealnya setiap kecamatan memiliki satu TPS3R atau Transfer Station (stasiun antara). Transfer Station tidak perlu berupa bangunan khusus, karena hanya berfungsi memindah sampah dari angkutan Jumangkut ke truk-truk sampah DLH yang akan mengangkut Salak atau Sare ke lokasi pemrosesan akhir.
+Sistem IT akan sangat membantu pengelolaan sampah. Informasi penting di lapangan dari Jumilah dan Jumangkut dapat dikumpulkan dan diolah sehingga mudah untuk keperluan perencanaan dan evaluasi pengelolaan dari hari ke hari. Untuk itu perlu dibuat aplikasi khusus untuk pengelola sampai mulai dari Jumilah sampai ke dashboard di Balaikota untuk keperluan pengambilan kebijakan. Informasi yang bisa diunggah seperti jumlah kantong sampah terkumpul dan terangkut, estimasi volume timbulan sampah, kepatuhan masyarakat dalam pemilahan dan penjadwalan, dan juga bisa memasukkan pelanggaran dan kondisi – kondisi kedaruratan lain. Siresik ini nantinya juga akan memudahkan Pemda untuk memvalidasi dan memutahirkan data di Sistem Informasi Persampahan Nasional (SIPSN). Berikut ini alur informasi Siresik yang direncanakan tercakup dalam IT support system (Gambar 3).
+
+Gambar 4.0.4 Alur Informasi Siresik
+
+Boks 4. Rekomendasi Sisi Tengah
+Mengintegrasikan penggerobak, transporter swasta, PSM dan bank sampah kedalam sistem formal pengelolaan sampah
+Meminimalkan TPS/Depo dan mengganti dengan sistem Halte Sampah 
+Meng-upgrade TPS3R menjadi MRF yang berfungsi sebagai filter sampah sebelum masuk ke WtE
+Mengembangkan sistem IT untuk mengontrol pergerakan sampah dari hulu ke hilir

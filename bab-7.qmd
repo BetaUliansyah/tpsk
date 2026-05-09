@@ -1,6 +1,7 @@
 # Opsi Teknologi WtE Non-insinerator
 
 “There is no silver bullet in waste management.”
+
 Selain teknologi insinerator, di dunia ini hanya ada sedikit teknologi WtE yang sudah terbukti dapat diaplikasikan secara komersial dalam skala besar untuk mengolah sampah. Terlebih lagi, sampah Indonesia memiliki karakter khas yang membedakannya dari banyak negara maju, terutama karena komposisi organik yang sangat tinggi, kadar air jauh di atas standar operasi termal, serta heterogenitas residu yang menantang. Kondisi ini menyebabkan teknologi insinerator menjadi teknologi WtE paling matang dan dominan di dunia, terutama untuk menangani sampah campuran (mixed MSW). 
 Namun demikian, berbagai dokumen internasional menekankan bahwa negara-negara berkembang tetap dapat mengeksplorasi beberapa teknologi WtE non-insinerator apabila dilakukan melalui pendekatan yang cermat, ditopang oleh pemilahan di hulu dan persiapan bahan baku yang sesuai. Teknologi yang paling banyak dibahas sebagai alternatif adalah Anaerobic Digestion (AD), Gasifikasi berbasis RDF, dan Pirolisis untuk residu plastik. Ketiganya memiliki tingkat kesiapan teknologi yang berbeda, dan semuanya memerlukan prasyarat ketat sebelum dapat diterapkan dalam skala kota. Bagian ini menguraikan secara mendalam ketiga teknologi tersebut, dengan penekanan pada langkah-langkah persiapan yang harus dilakukan jika Indonesia memilih menerapkannya secara komersial.
 7.1. Anaerobic Digestion (AD) 

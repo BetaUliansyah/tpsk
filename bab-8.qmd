@@ -1,9 +1,5 @@
 # Peran Sektor Industri
 
-
-
-BAB 8. Peran Sektor Industri 
-
 “A resilient waste system is built on collective effort.”
 Industri sebenarnya memiliki peran kunci dalam pengelolaan sampah modern karena merekalah sumber utama produk dalam kemasan, produk konsumsi massal, dan barang elektronik yang pada akhirnya masuk ke sistem persampahan. Dalam pendekatan ekonomi sirkular, tanggung jawab pengelolaan sampah tidak lagi sepenuhnya berada di tangan pemerintah, tetapi bergeser ke seluruh rantai produksi—mulai dari desain produk, pemilihan material, hingga pengumpulan kembali pascakonsumsi. 
 Selain sebagai produsen barang konsumsi, industri sebenarnya memiliki kapasitas signifikan untuk berkontribusi dalam pengurangan sampah karena beberapa jenis industri memiliki infrastruktur pembakaran bersuhu tinggi seperti boiler, furnace, dan kiln yang mampu mengolah bahan bakar alternatif. Teknologi yang mereka gunakan, terutama pada industri semen, mampu mencapai suhu di atas 1.400°C, jauh lebih tinggi dibanding insinerator kota, sehingga dapat membakar material residu dengan lebih sempurna sekaligus meminimalkan emisi dioksin. Pendekatan ini dikenal sebagai co-processing, yaitu proses memanfaatkan sampah yang telah diproses menjadi RDF (Refuse Derived Fuel) sebagai pengganti sebagian bahan bakar fosil. Dengan memanfaatkan kapasitas termal yang sudah ada, industri tidak hanya mengurangi penggunaan batubara tetapi juga memberikan solusi terhadap timbunan sampah yang tidak dapat didaur ulang.
